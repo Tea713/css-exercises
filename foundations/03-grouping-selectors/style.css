@@ -1,0 +1,15 @@
+.invert,
+.yellow-background {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.invert {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.yellow-background {
+    background-color: yellow;
+}
